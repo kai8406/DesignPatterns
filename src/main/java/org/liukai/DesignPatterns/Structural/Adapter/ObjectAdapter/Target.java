@@ -7,7 +7,7 @@ package org.liukai.DesignPatterns.Structural.Adapter.ObjectAdapter;
  * 
  */
 public interface Target {
-	
+
 	public void request();
 
 }

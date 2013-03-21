@@ -13,9 +13,9 @@ public class Granduate extends Student {
 
 	@Override
 	public void doMethod(Method method) {
-		
+
 		System.out.println("本科生");
-		
+
 		method.method();
 
 	}

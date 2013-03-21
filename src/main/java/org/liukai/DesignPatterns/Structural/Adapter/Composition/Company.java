@@ -25,5 +25,5 @@ public abstract class Company {
 	protected abstract void romove(Company company);
 
 	protected abstract void display(int depth);
-	
+
 }
